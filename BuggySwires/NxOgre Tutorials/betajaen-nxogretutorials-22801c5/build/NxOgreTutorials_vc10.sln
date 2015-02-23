@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NxOgreTutorials", "vc10\NxOgreTutorials.vcxproj", "{FAD6C6A2-5ABE-EE7E-A4E8-9A3589CFA671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F35A4AAF-7CE4-491D-A805-A11738A39D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Final|Win32 = Final|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD6C6A2-5ABE-EE7E-A4E8-9A3589CFA671}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAD6C6A2-5ABE-EE7E-A4E8-9A3589CFA671}.Debug|Win32.Build.0 = Debug|Win32
+		{FAD6C6A2-5ABE-EE7E-A4E8-9A3589CFA671}.Final|Win32.ActiveCfg = Final|Win32
+		{FAD6C6A2-5ABE-EE7E-A4E8-9A3589CFA671}.Final|Win32.Build.0 = Final|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

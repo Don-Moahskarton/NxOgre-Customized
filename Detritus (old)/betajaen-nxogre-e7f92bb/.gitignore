@@ -1,0 +1,21 @@
+# Directories
+Debug
+DebugStatic
+Final
+FinalStatic
+sdk
+# Specific files
+clean.bat
+# Files of a type
+*.py
+*.pyc
+*.rb
+*.lnk
+*.obj
+*.manifest
+*.res
+*.user
+*.ncb
+*.suo
+*.dll
+*.developer

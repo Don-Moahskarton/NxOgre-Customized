@@ -1,0 +1,5 @@
+// old
+flour convert in: .mesh, into: convex ,out:.nxs
+flour convert in: .mesh, into: triangleGeometry ,out:.nxs
+
+flour convert --type=convex bidule.mesh

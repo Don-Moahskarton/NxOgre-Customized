@@ -1,0 +1,10 @@
+NxOgre Log
+ * Version: 1.6.3462
+ * Branch: Detritus/Teamsman
+ * PhysX:284
+ * Min. PhysX: 281
+ * Platform: Windows/32
+ * Compiler: MSVC
+ * Has Character Controller:no
+ * Has Fluids:yes
+[Resources]Opening 'file://Disk.mesh' as read.[Resources]Opening 'file://Disk.nxs' as write.[Cooking][MeshData] Attempting to cook to resource[Resources]Closing 'file://Disk.nxs', Read 0b and Wrote 0b. 
